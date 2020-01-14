@@ -1,0 +1,21 @@
+ARRANCAR PROYECTO npm run dev
+voy por el minuto 38.
+0-38 Configuracion de la parte servidor node.js
+38-41 Conexion a la base de datos
+41-59 CREar las vistas
+59-1:55 CRUD (Create Read Update Delete) Creamos, vemos eliminamos y editamos notas.
+1:55-2:03 Request Flash, Mostramos mensaje de las acciones que hace el usuario eliminar, editar las notas.
+2:03-2:30  SingUp con el modulo Passport, darse de alta la cuenta
+2:30-2:52  SignIN o iniciar sesion en la web una vez estas registrado.
+2.52-3.12 Navigation y securizar rutas
+3.12-final Asociar las notas con los usuarios
+
+Usuarios
+leti@gmail.com
+123456
+
+npm audit fix
+npm audit
+
+jose@gmail.com
+123456
